@@ -12,8 +12,15 @@ body {
   font-family: fantasy;
   color: white;
 }
-nav li {
-  display: inline-flex;
-  colour: #635a5e;
-  background-color: #f772ae;
+
+.navigation {
+  overflow-y: auto;
+ position: fixed;
+ left: 0;
+ top: 0;
+ text-align: center;
+ width:
+ colour: #635a5e;
+ background-color: #f772ae;
+ z-index: 999;
 }
