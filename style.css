@@ -13,7 +13,7 @@ body {
   color: white;
 }
 nav li {
-  display: inline;
+  display: inline-flex;
   colour: #635a5e;
   background-color: #f772ae;
 }
