@@ -12,3 +12,8 @@ body {
   font-family: fantasy;
   color: white;
 }
+nav li {
+  display: inline;
+  colour: #635a5e;
+  background-color: #f772ae;
+}
