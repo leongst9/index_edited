@@ -1,8 +1,14 @@
 head{
-  font-size: 30px;
+  font-size: 3em;
+  font-style: normal;
+  font-family: fantasy;
+  color: white
+    background-color: #f2c2d6;
 }
 
 body {
-  background-color: blue;
-  font-size: 20px;
+  background-color: #f2c2d6;
+  font-size: 2em ;
+  font-family: fantasy;
+  color: white;
 }
